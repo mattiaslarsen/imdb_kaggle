@@ -5,7 +5,7 @@ import pandas as pd
 st.title("Filmdata Visualisering")
 
 # Ange sökvägen till din CSV-fil
-csv_file = 'C:/Users/matti/BOX/Box4/imdb_kaggle/imdb_kaggle.csv'
+csv_file = 'imdb_kaggle.csv'
 
 # Försök att läsa in data från CSV-filen
 try:
